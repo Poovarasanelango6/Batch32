@@ -14,7 +14,7 @@
 // console.log(count);
 
 // const studentName = "Poovarasan";
-// studentName = "Elangovan"; // ❌ error
+// studentName = "Elangovan"; // error
 // console.log(count); //Uncaught TypeError: Assignment to constant variable.
 
 
@@ -22,7 +22,7 @@
 
 // //var — can be redeclared freely, even with a new value:
 // var x = 1;
-// var x = 2; // ✅ fine, no error
+// var x = 2; // fine, no error
 // console.log(x); // 2
 
 // //let — cannot be redeclared in the same scope:
